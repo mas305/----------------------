@@ -56,9 +56,14 @@ body{
     justify-content: center;
 }
 .social{
-    display: flex;
-    width: 40%;
+    /* display: flex; */
+    /* width: 40%; */
     margin: auto;
+}
+.social1{
+    display: flex;
+    /* margin: auto; */
+    width: 40%;
 }
 
 .icon{
