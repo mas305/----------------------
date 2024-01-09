@@ -55,6 +55,11 @@ body{
     margin: auto;
     justify-content: center;
 }
+.social{
+    display: flex;
+    width: 50%;
+    margin: auto;
+}
 
 .icon{
     display: flex;
